@@ -1,0 +1,5 @@
+numpy == 1.18.5
+Flask
+gunicorn
+tensorflow-cpu
+Pillow
