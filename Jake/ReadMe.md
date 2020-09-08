@@ -10,6 +10,6 @@ Jake uses an application factory approach. It is a ready application to be deplo
 
 **templates:** contains the html templates to be render by the views file under the main directory.
 
-**flaskModel.h5** The smaller network in greyscale was used to power this app. It can be found in the jupyter notebook under the cars directory.
+**flaskModel.h5** The smaller network in greyscale was used to power this app. It can be found in the jupyter notebook under the PredictingCarsBodyType directory.
 
 
